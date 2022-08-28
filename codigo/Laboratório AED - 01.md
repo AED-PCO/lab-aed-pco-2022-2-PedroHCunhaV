@@ -6,6 +6,12 @@
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED-PCO/lab-aed-pco-2022-2-PedroHCunhaV).
 
+## 📝 Instruções de Utilização
+
+- `Como Utilizar`:
+
+
+
 ## 🔨 Questões do Laboratório
 - `Questão 1`:
 
