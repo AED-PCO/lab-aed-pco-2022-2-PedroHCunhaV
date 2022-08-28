@@ -18,11 +18,11 @@ Como mostrado no print a seguir, é possível ver a solicitação para escolher 
 Lembrando que o "switch-case" para escolher a questão aceita somente números como no exemplo abaixo:
 ![image](https://user-images.githubusercontent.com/101759330/187083059-d9a55c13-6daf-4a39-92f9-ceefc195396e.png)
 
-Ao final de cada questão é perguntando se deseja repetir o programa com uma resposta de "S/N":
+Ao final de cada questão é perguntando se deseja repetir o programa com uma resposta de "S/N":<br>
 ![image](https://user-images.githubusercontent.com/101759330/187083140-d5ada98b-869f-48fd-b3b2-87fa281aaa90.png)
 
 Caso deseje repetir o Programa o mesmo solicita novamente a escolha da questão para ser possível o acesso as outras questões:
-![image](https://user-images.githubusercontent.com/101759330/187083177-03695964-7439-4227-bcd8-9d55b4a77eb6.png)
+![image](https://user-images.githubusercontent.com/101759330/187083207-2a0fb47f-e993-48a8-8a3f-8588666f61f5.png)
 
 
 ## 🔨 Questões do Laboratório
