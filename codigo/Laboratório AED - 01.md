@@ -61,10 +61,10 @@ Primo.
 
 Segue Abaixo o print da questão quando é executada:
 
-Não sendo Primo
+Não sendo Primo<br>
 ![image](https://user-images.githubusercontent.com/101759330/187112837-6dd2435a-d943-4405-afec-a4d0f7fec906.png)
 
-Sendo Primo
+Sendo Primo<br>
 ![image](https://user-images.githubusercontent.com/101759330/187112946-e2dd88ba-a24d-4ccc-a870-723e17cd1899.png)
 
 - `Questão 2 - Parte 2`:
@@ -74,6 +74,6 @@ exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6.
 Faça um programa que liste os números perfeitos de 1 a 1000.
 
 
-Segue Abaixo o print da questão quando é executada:
+Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187113021-16938082-1110-4ad4-8f66-4cd81aaef1a5.png)
 
