@@ -81,3 +81,18 @@ Faça um programa que liste os números perfeitos de 1 a 1000.
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187113021-16938082-1110-4ad4-8f66-4cd81aaef1a5.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 3`:
+
+Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5 posições. 
+Considere que nenhum dos vetores possui elementos repetidos.
+Crie um vetor resultante C que possua os elementos comuns entre A e B.
+Crie um vetor resultante D que contenha os elementos de A que não existam em B.
+
+- `Resposta Questão 3`:
+
+Ao realizar essa questão permitir para que o usuário utilizando o programa determine os valores dos vetores A e B. Para verificar e realizar os vetores C e D utilizei um "for" para passar em todos elementos do vetor e dentro desse mesmo "for" a utilização de um for para verificar em qual vetor o valor deve estar.
+
+Segue Abaixo o print da questão quando é executada:
+![image](https://user-images.githubusercontent.com/101759330/187114138-b756337f-dc10-4f43-af17-2c3e9ba61b1d.png)
