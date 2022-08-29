@@ -36,3 +36,61 @@ Escreva um método recursivo que retorne o fatorial de um número.
 Realizei nessa questão a utilização de um "if" como parada para o método recursivo que multiplica o número pelo método recursivo "Fatorial" e subtraindo -1 ao número.
 
 Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187118093-4e7162d6-e0c5-4fe1-9d38-39d3a1198cbe.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 2`:
+
+Uma multiplicação pode ser vista como uma sequência de somas. Escreva um método recursivo que realize a multiplicação de dois números inteiros, A e B, recebidos por 
+parâmetro.
+
+- `Resposta Questão 2`:
+
+Realizei nessa questão a utilização de um "if" como parada para o método recursivo retornando o segundo valor digitado. No "else" desse mesmo "if" realizo a parte recursiva somando o primeiro valor ao método recursivo passando como parâmetro os primeiro valor e o segundo valor -1 para ser possível a realização da multiplicação dos números.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187118351-fa16ff9f-5761-44b5-8a3f-53cca52fef9d.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 3`:
+
+Escreva um método recursivo que realize a potenciação entre dois números inteiros, A e B, recebidos por parâmetro. Seu método deve, portanto, retornar o resultado 
+de AB
+
+- `Resposta Questão 3`:
+
+Realizei nessa questão a utilização de um "if" como parada para o método recursivo verificando se o valor da potência e igual a 0 e retornando 1. No "else" deste mesmo "if" é realizada o método recursivo desta maneira (return A * Potencia(A, B - 1);)
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187118866-c594856b-5660-4fe3-a7e2-95c64c38dd1b.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 5`:
+
+Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos.
+
+- `Resposta Questão 5`:
+
+Realizei nessa questão a utilização de um "if" como parada para o método recursivo com o tamanho do vetor como verificação. No "else" deste mesmo "if" é realizada o método recursivo ao pegar o tamanho do vetor e ir passando por cada elemento de trás para frente e diminuindo por 2 para achar o valor par num vetor ordenado de 1 a 10.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187119494-50bd0cac-06ce-4bc4-828b-1218fce20d08.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 6`:
+
+Definição recursiva da série de Fibonacci.
+
+- `Resposta Questão 6`:
+
+Realizei nessa questão a utilização de um "if" como parada para o método recursivo utilizando o valor digitado como verificação. No "else" deste mesmo "if" é realizada o método recursivo desta maneira (return Fibonacci(valor - 1) + Fibonacci(valor - 2);)
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187119964-be47e3bf-07b4-4931-9c1a-2f90611f2029.png)
+
+
+
