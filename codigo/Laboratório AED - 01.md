@@ -94,5 +94,45 @@ Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 
 Ao realizar essa questão permitir para que o usuário utilizando o programa determine os valores dos vetores A e B. Para verificar e realizar os vetores C e D utilizei um "for" para passar em todos elementos do vetor e dentro desse mesmo "for" a utilização de um for para verificar em qual vetor o valor deve estar.
 
-Segue Abaixo o print da questão quando é executada:
+Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187114138-b756337f-dc10-4f43-af17-2c3e9ba61b1d.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 4`:
+
+Faça um programa que receba os elementos de uma matriz de 5 linhas por 3 colunas. 
+Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
+
+- `Resposta Questão 4`:
+
+Ao realizar essa questão permitir para que o usuário utilizando o programa determine os valores da matriz. Utilzei dois "for" um para linha e outra para coluna realizando a soma das mesmas e adicionando a uma variável, após isso com a utilização de "for" realizo a impressão da resposta.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187114838-491c53bd-e8a2-4df0-8cc5-4d1a446ed12c.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 5`:
+
+Faça um programa que chame uma função capaz de calcular o Fatorial de um número inteiro
+
+- `Resposta Questão 5`:
+
+Nessa questão utilzei o "while" para verificar o fatorial do número digitado pelo usuário e dentro do mesmo "while" utilzei a formula do fatorial.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187115341-9ff21f7b-234d-4338-8ed8-639a19c78dcb.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 6`:
+
+Faça um programa que chame sua função capaz de calcular x elevado a y, sendo x e y inteiros. Utilize passagem de parâmetros por referência.
+
+- `Resposta Questão 6`:
+
+Como solocitado na questão realizei a função para fazer a elevação do número através de um "Math.Pow" e passei os resultados para impressão através de referência.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/187116288-efdb944a-02d2-4921-b91d-d615b8d6e074.png)
