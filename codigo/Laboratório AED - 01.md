@@ -57,6 +57,23 @@ palavras, um Número Primo possui dois divisores de 1 até ele.
 Faça um programa que mostre se um determinado número inteiro, lido pelo teclado, é 
 Primo.
 
+- `Resposta Questão 2`:
+
+Segue Abaixo o print da questão quando é executada:
+
+Não sendo Primo
+![image](https://user-images.githubusercontent.com/101759330/187112837-6dd2435a-d943-4405-afec-a4d0f7fec906.png)
+
+Sendo Primo
+![image](https://user-images.githubusercontent.com/101759330/187112946-e2dd88ba-a24d-4ccc-a870-723e17cd1899.png)
+
+- `Questão 2 - Parte 2`:
+
 Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual a ele. Por 
 exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6.
 Faça um programa que liste os números perfeitos de 1 a 1000.
+
+
+Segue Abaixo o print da questão quando é executada:
+![image](https://user-images.githubusercontent.com/101759330/187113021-16938082-1110-4ad4-8f66-4cd81aaef1a5.png)
+
