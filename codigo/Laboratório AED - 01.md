@@ -59,6 +59,8 @@ Primo.
 
 - `Resposta Questão 2`:
 
+Realizei a questão com a utilização de um "for" para verificar se o resto da divisão do número pelo contador vai dar igual a zero e assim somando mais um valor a variável "cont" , que logo após a mesma variável é utilizada para verificar se o número é primo ou não.
+
 Segue Abaixo o print da questão quando é executada:
 
 Não sendo Primo<br>
@@ -68,6 +70,8 @@ Sendo Primo<br>
 ![image](https://user-images.githubusercontent.com/101759330/187112946-e2dd88ba-a24d-4ccc-a870-723e17cd1899.png)
 
 - `Questão 2 - Parte 2`:
+
+Realizei a questão utilizando um "while" para fazer o calculo de numero perfeitos dentro do intervalo de 1 a 1000. Dentro do mesmo é realizada a verificação dos divisores dos números através de um "for" e adicionando e somando os divisores na variável "soma" , logo após verifico com um "if" se as soma dos divisores é igual ao número utilizado.
 
 Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual a ele. Por 
 exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6.
