@@ -117,43 +117,43 @@ do
 
     static void Atividade4()
     {
-        //Console.WriteLine("Escreva um método recursivo que receba na frase e uma letra como parâmetros.Este método deve retornar a quantidade de ocorrências desta letra nesta frase.");
+        Console.WriteLine("\nEscreva um método recursivo que receba na frase e uma letra como parâmetros.Este método deve retornar a quantidade de ocorrências desta letra nesta frase.");
 
-        //string frase;
-        //char letra;
-        //int repeticao;
+        string frase;
+        int repeticao;
 
-        //Console.WriteLine("Digite o texto ou frase desejado: ");
-        //frase = (Console.ReadLine());
-        //Console.WriteLine("Digite a letra desejada:");
-        //letra = char.Parse(Console.ReadLine());
+        Console.WriteLine("\nDigite o texto ou frase desejado: ");
+        frase = (Console.ReadLine());
+        Console.WriteLine("\nDigite a letra desejada:");
+        char letra = Console.ReadKey().KeyChar;
+        frase.ToLower();
 
-        //repeticao = texto(frase,letra);
-        //Console.WriteLine("A quantidade de vezes da palavra desejada repetida é: {0}",);
+        repeticao = texto(frase, letra);
+        Console.WriteLine("\nA quantidade de vezes da palavra desejada repetida é: {0}",repeticao);
     }
 
-    //static int texto(string frase, char letra)
-    //{
-    //    int n = 0;
+    static int texto(string frase, char letra)
+    {
+        int n = 0;
 
-    //    if(frase.Length < 1)
-    //    {
-    //        return 0;
-    //    }
-    //    else
-    //    {
-    //        if (frase[0] == letra)
-    //        {
-    //            return texto(frase.Substring(i), letra) + n + i;
-    //        }
-    //        else
-    //        {
-    //            return texto(frase.Substring(i), letra);
-    //        }
-    //    }
-    //}
+        if (frase.Length < 1)
+        {
+            return 0;
+        }
+        else
+        {
+            if (frase[0] == letra)
+            {
+                return texto(frase.Substring(1), letra) + n + 1;
+            }
+            else
+            {
+                return texto(frase.Substring(1), letra);
+            }
+        }
+    }
 
-//-------------------------------------------------------------------------------------------------------------------------------------------------------------
+    //-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     static void Atividade5()
     {
