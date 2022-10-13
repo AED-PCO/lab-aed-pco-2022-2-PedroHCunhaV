@@ -3,7 +3,7 @@
 do
 {
     Console.WriteLine("\n-----------------------------------------------------------------------------------");
-    Console.WriteLine("\nAED - Laboratório 02");
+    Console.WriteLine("\nAED - Laboratório 06");
     Console.WriteLine("\nEscolha o Exercicio:");
     Console.WriteLine("\nDigite: \n (*1* Bubble Sort) \t (*2* Selection Sort) \t (*3* Insertion Sort) \n (*4* QuickSort) \t (*5* ShellSort) \t (*6* Contagem)");
     int ex = int.Parse(Console.ReadLine());
