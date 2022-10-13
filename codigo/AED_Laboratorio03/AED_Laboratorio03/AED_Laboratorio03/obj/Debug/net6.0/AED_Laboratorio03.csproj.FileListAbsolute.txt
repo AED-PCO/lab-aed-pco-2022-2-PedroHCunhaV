@@ -1,0 +1,15 @@
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\bin\Debug\net6.0\AED_Laboratorio03.exe
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\bin\Debug\net6.0\AED_Laboratorio03.deps.json
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\bin\Debug\net6.0\AED_Laboratorio03.runtimeconfig.json
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\bin\Debug\net6.0\AED_Laboratorio03.dll
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\bin\Debug\net6.0\AED_Laboratorio03.pdb
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.csproj.AssemblyReference.cache
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.AssemblyInfoInputs.cache
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.AssemblyInfo.cs
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.csproj.CoreCompileInputs.cache
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.dll
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\refint\AED_Laboratorio03.dll
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.pdb
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\AED_Laboratorio03.genruntimeconfig.cache
+C:\Users\1396015\Downloads\AED_Laboratorio03\AED_Laboratorio03\AED_Laboratorio03\obj\Debug\net6.0\ref\AED_Laboratorio03.dll
