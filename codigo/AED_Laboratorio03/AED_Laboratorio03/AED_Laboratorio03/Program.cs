@@ -3,7 +3,7 @@
 do
 {
     Console.WriteLine("\n-----------------------------------------------------------------------------------");
-    Console.WriteLine("\nAED - Laboratório 02");
+    Console.WriteLine("\nAED - Laboratório 03");
     Console.WriteLine("\nEscolha o Exercicio:");
     Console.WriteLine("\nDigite: \n (*1* Pesquisa Binaria com POS) \t (*2* Pesquisa Binaria sem Pos) \t (*3* Ordenação Binaria)");
     int ex = int.Parse(Console.ReadLine());
