@@ -68,6 +68,19 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- `Questão 4`:
+
+Escreva um método recursivo que receba uma frase e uma letra como parâmetros. Este método deve retornar a quantidade de ocorrências desta letra nesta frase.
+
+- `Resposta Questão 4`:
+
+Realizei nessa questão a utilização de um "if" como parada para o método recursivo e no else do if realizei a condição para andar no array e retirar a letra(char) desejado pelo usuário.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/190523974-158f0600-d345-4e58-ab24-7fc157dc6e02.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - `Questão 5`:
 
 Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos.
@@ -83,9 +96,23 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 - `Questão 6`:
 
-Definição recursiva da série de Fibonacci.
+Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem nenhuma vogal.
 
 - `Resposta Questão 6`:
+
+Realizei nessa questão a utilização de um "if" para conferir as vogais da frase/palavra e usando o array resize para retirar a vogal do vetor e arrumar o tamanho do mesmo caso não fosse uma vogal na posição que esta lendo ele vai ir para a próxima.
+
+Segue Abaixo o print da questão quando é executada:<br>
+![image](https://user-images.githubusercontent.com/101759330/190523608-109b8987-cca8-4962-a498-8fa0b16744bc.png)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- `Questão 7`:
+
+Definição recursiva da série de Fibonacci.
+
+- `Resposta Questão 7`:
 
 Realizei nessa questão a utilização de um "if" como parada para o método recursivo utilizando o valor digitado como verificação. No "else" deste mesmo "if" é realizada o método recursivo desta maneira (return Fibonacci(valor - 1) + Fibonacci(valor - 2);)
 
