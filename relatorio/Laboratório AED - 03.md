@@ -41,7 +41,7 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 - `Explicação Questão 1 e 2`:
 
-● Explicação
+● Explicação:
 
 	Vet = 1		3	7	9	10	12
 
