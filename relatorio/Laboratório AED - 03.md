@@ -94,6 +94,6 @@ FIM = Vet.Length
 
 Realizar uma Ordenação Binária
 
-- `Resposta Questão 2`:
+- `Resposta Questão 3`:
 
 Ainda em Desenvolvimento (Não Conseguir o Resultado 100% mas ainda estou realizando tentativas)
