@@ -50,7 +50,7 @@ FIM = Vet.Length
 
 ---------------------------------------------------------------------------------
 
-● Caso direita →
+● Caso direita → (Esquerda seria o Mesmo Processo só que para o lado esquerdo)
 
 	Número que desejo encontrar = 9			Vet = 1		3	7	9	10	12
 
@@ -85,7 +85,8 @@ FIM = Vet.Length
 		
 		MEIO: INICIO - FIM / 2  → Nesse caso Seria entre 10 e 9
 													
-    Assim sendo feita essa divisão de meio ate achar o valor desejado que no caso da questão 1 o valor era : 7 e na questão 2 o valor era:  10
+    Assim sendo feita essa divisão de meio ate achar o valor desejado que no caso da questão 1 o valor era : 7 
+    e na questão 2 o valor era:  10
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
