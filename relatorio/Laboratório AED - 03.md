@@ -12,7 +12,7 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 
 Ao criar o projeto decidi colocar todas as atividades referentes ao primeiro laboratório em um único arquivo, devido a isso inseri no meu codigo um "do while" para repetir o código e um "switch-case" para escolha qual questão desejar executar.
 
-Como mostrado no print a seguir, é possível ver a solicitação para escolher a questão da atividade:
+Como mostrado no print a seguir, é possível ver a solicitação para escolher a questão da atividade: <br>
   ↳Lembrando que o "switch-case" para escolher a questão aceita somente números
 ![image](https://user-images.githubusercontent.com/101759330/195963146-f8ef0c1d-7cd9-4c5e-b74b-b61af413d00a.png)
 
