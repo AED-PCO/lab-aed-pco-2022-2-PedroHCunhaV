@@ -9,12 +9,12 @@
 
 - `Resposta Questão 1`:
 
-public int alg1(int n){
-	int res = 1;
-	for(int i=n;i>1;i- -){      → (N-1)
-   res = res*i;        → (1)
-  }
-}
+public int alg1(int n){ <br>
+	int res = 1;	<br>
+	for(int i=n;i>1;i- -){      → (N-1) <br>
+   res = res*i;        → (1) <br>
+  } <br>
+} <br>
 
 (N-1) * 1 = N - 1
 
