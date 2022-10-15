@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\codigo",
+    "\\codigo\\AED_Laboratorio03",
+    "\\codigo\\AED_Laboratorio03\\AED_Laboratorio03",
+    "\\codigo\\AED_Laboratorio03\\AED_Laboratorio03\\AED_Laboratorio03"
   ],
+  "SelectedNode": "\\codigo\\AED_Laboratorio03\\AED_Laboratorio03\\AED_Laboratorio03\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
