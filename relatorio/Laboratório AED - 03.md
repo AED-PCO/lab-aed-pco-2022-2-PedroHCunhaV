@@ -1,4 +1,4 @@
-<h1 align="center"> 💻 Laboratório AED - 01 </h1>
+<h1 align="center"> 💻 Laboratório AED - 03 </h1>
 
 ## ✔️ Linguagem utilizada
 - ``C#``
