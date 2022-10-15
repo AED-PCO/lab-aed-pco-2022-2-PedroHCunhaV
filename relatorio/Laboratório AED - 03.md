@@ -39,18 +39,18 @@ Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/195963104-e94ff868-cdc6-4584-8f2d-6e3ed97063b6.png)
 
 
--`Explicação Questão 1 e 2`:
+- `Explicação Questão 1 e 2`:
 
-Vet = 1		3	7	9	10	12
+● Explicação
 
-MEIO = INICIO - FIM / 2
+	Vet = 1		3	7	9	10	12
 
-INCIO= 0 (Indice)
-FIM = Vet.Length
+	MEIO = INICIO - FIM / 2
 
----------------------------------------------------------------------------------
-
-● Caso direita → (Esquerda seria o Mesmo Processo só que para o lado esquerdo)
+	INCIO= 0 (Indice)
+	FIM = Vet.Length	
+	
+	● Caso direita → (Esquerda seria o Mesmo Processo só que para o lado esquerdo)
 
 	Número que desejo encontrar = 9			Vet = 1		3	7	9	10	12
 
