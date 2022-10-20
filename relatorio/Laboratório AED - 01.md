@@ -43,8 +43,6 @@ Faça um programa que mostre os números de 1000 a 9999 que possuem essa caracte
 
 Para a realização dessa questão utilizei o comando "for" para ser possivel realizar a repetição do comando até chegar ao núemro desejado que nesse caso é de 1000 a 9999. Dentro do comando "for" realizei a divisão do meu número para conseguir cada parte do valor separado como 30 e 25 dito na questão, realizando a divisão e colocando duas variáveis uma para o resto da divisão e outra para o resultado sendo assim possível dividir o número em duas partes.Após isso realizei a soma do resultado e do resto da divisão e multiplicando essa soma por si mesma.Logo após verifiquei se o valor dessa multiplicação é o número que esta sendo utilizado no momento caso fosse o mesmo seria apresentado na tela.
 
-![image](https://user-images.githubusercontent.com/101759330/187083394-0f09c95c-373a-4288-8648-fddbbb226abd.png)
-
 Segue Abaixo o print da questão quando é executada:
 ![image](https://user-images.githubusercontent.com/101759330/187083344-2e8bcb54-5229-4f81-b333-cbbeb44fb3aa.png)
 
@@ -85,6 +83,10 @@ Faça um programa que liste os números perfeitos de 1 a 1000.
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187113021-16938082-1110-4ad4-8f66-4cd81aaef1a5.png)
 
+- `Gráfico Questão 2`:
+
+![image](https://user-images.githubusercontent.com/101759330/196981324-f9779841-ed68-4e89-9298-440efed9246b.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 3`:
@@ -100,6 +102,10 @@ Ao realizar essa questão permitir para que o usuário utilizando o programa det
 
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187114138-b756337f-dc10-4f43-af17-2c3e9ba61b1d.png)
+
+- `Gráfico Questão 3`:
+
+![image](https://user-images.githubusercontent.com/101759330/196981467-ecb0aa53-885c-4287-a507-cced1073df67.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
