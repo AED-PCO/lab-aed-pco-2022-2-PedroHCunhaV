@@ -48,11 +48,11 @@ N * 1 = N
 		  double[] res; <br>
 			 for(int pos = 0 ; pos<arr1.lenght ; pos++){ → (N) 
 				  for(int j= 0; j < arr1.length; j ++){  → (N) 
-			      if(j!=pos){  → (1) 
-		     (1) ← res[pos] += arr1[pos]/arr1[j] → (1) 
-			} 
-		      } 
-		    } 
+			      		if(j!=pos){  → (1) 
+		     				(1) ← res[pos] += arr1[pos]/arr1[j] → (1) 
+					} 
+		      		} 
+		   	 } 
 		  } 
   
 N * N * (1+1+1) = 3N^2
