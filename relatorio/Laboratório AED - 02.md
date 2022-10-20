@@ -104,6 +104,10 @@ Realizei nessa questão a utilização de um "if" como parada para o método rec
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187119494-50bd0cac-06ce-4bc4-828b-1218fce20d08.png)
 
+- `Gráfico Questão 5`:
+
+![image](https://user-images.githubusercontent.com/101759330/196990997-3b06fb08-3b7a-44ea-aca1-e32024425d3f.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 6`:
