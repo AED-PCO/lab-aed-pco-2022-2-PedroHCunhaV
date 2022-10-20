@@ -38,6 +38,10 @@ Realizei nessa questão a utilização de um "if" como parada para o método rec
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187118093-4e7162d6-e0c5-4fe1-9d38-39d3a1198cbe.png)
 
+- `Gráfico Questão 1`:
+
+![image](https://user-images.githubusercontent.com/101759330/196986739-ec1b813a-92ea-418a-b7f3-7271b2f811f7.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 2`:
@@ -51,6 +55,10 @@ Realizei nessa questão a utilização de um "if" como parada para o método rec
 
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187118351-fa16ff9f-5761-44b5-8a3f-53cca52fef9d.png)
+
+- `Gráfico Questão 2`:
+
+![image](https://user-images.githubusercontent.com/101759330/196989317-63c95a8b-1db1-4226-8597-5531d2f3f994.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
