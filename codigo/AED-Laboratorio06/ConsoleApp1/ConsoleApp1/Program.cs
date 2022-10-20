@@ -133,7 +133,7 @@ do
 
     static void InsertionSort()
     {
-        Console.WriteLine("\nUtilize o metodo do SelectionSort para organizar um array");
+        Console.WriteLine("\nUtilize o metodo do InsertionSort para organizar um array");
 
         int min = 0, max = 50;
 
