@@ -9,12 +9,12 @@
 
 - `Resposta Questão 1`:
 
-public int alg1(int n){ <br>
-	int res = 1;	<br>
-	for(int i=n;i>1;i- -){      → (N-1) <br>
-   res = res*i;        → (1) <br>
-  } <br>
-} <br>
+		public int alg1(int n){ 
+			int res = 1;	
+			for(int i=n;i>1;i- -){      → (N-1) 
+   				res = res*i;        → (1) 
+  			} 
+		} 
 
 (N-1) * 1 = N - 1
 
@@ -27,12 +27,12 @@ public int alg1(int n){ <br>
 
 - `Resposta Questão 2`:
 
-public int alg2(int[] arr, int x){ <br> 
-	for(int i=0;i<arr.length;i++){   → N (N vezes roda o vetor) <br>
-		 if(arr[i] == x) return x;	→ 1 <br>
- } <br>
- return -1; <br>
-} <br>
+		public int alg2(int[] arr, int x){  
+			for(int i=0;i<arr.length;i++){   → N (N vezes roda o vetor) 
+		 		if(arr[i] == x) return x;	→ 1 
+ 			} 
+ 			return -1; 
+		} 
 
 N * 1 = N
 
@@ -44,16 +44,16 @@ N * 1 = N
 
 - `Resposta Questão 3`:
 
-double[] alg3 (double []arr1){ <br>
-  double[] res; <br>
-	 for(int pos = 0 ; pos<arr1.lenght ; pos++){ → (N) <br>
-		  for(int j= 0; j < arr1.length; j ++){  → (N) <br>
-	      if(j!=pos){  → (1) <br>
-     (1) ← res[pos] += arr1[pos]/arr1[j] → (1) <br>
-        } <br>
-      } <br>
-    } <br>
-  } <br>
+		double[] alg3 (double []arr1){ <br>
+		  double[] res; <br>
+			 for(int pos = 0 ; pos<arr1.lenght ; pos++){ → (N) 
+				  for(int j= 0; j < arr1.length; j ++){  → (N) 
+			      if(j!=pos){  → (1) 
+		     (1) ← res[pos] += arr1[pos]/arr1[j] → (1) 
+			} 
+		      } 
+		    } 
+		  } 
   
 N * N * (1+1+1) = 3N^2
 
@@ -66,17 +66,17 @@ N * N * (1+1+1) = 3N^2
 
 - `Resposta Questão 4`:
 
-public double [] alg4 (int[] dados){ <br>
-	double[] vet = new double[dados.length]; <br>
-	for(int = 0; i < dados.length; i ++) { → (N) <br>
-		  double soma = 0.0; <br>
-		  for(int j = 0; j <= dados.length; i++){ →(N) <br>
-	     soma+=dados[j]; → (1) <br>
-     } <br>
-    (1)← vet[i] = soma/(i+1); → (1) <br>
-   } <br>
-	return vet;	 <br>
-} <br>
+		public double [] alg4 (int[] dados){ <br>
+			double[] vet = new double[dados.length]; 
+			for(int = 0; i < dados.length; i ++) { → (N) 
+				  double soma = 0.0; 
+				  for(int j = 0; j <= dados.length; i++){ →(N) 
+			     soma+=dados[j]; → (1) 
+		     } 
+		    (1)← vet[i] = soma/(i+1); → (1) 
+		   } 
+			return vet;	 
+		} 
 
 
 N*N * (1+1+1) = 3N^2
