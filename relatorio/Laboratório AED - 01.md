@@ -121,6 +121,10 @@ Ao realizar essa questão permitir para que o usuário utilizando o programa det
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187114838-491c53bd-e8a2-4df0-8cc5-4d1a446ed12c.png)
 
+- `Gráfico Questão 4`:
+
+![image](https://user-images.githubusercontent.com/101759330/196983528-36f3cfe3-c3fe-4c16-8895-ae2279093c5a.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 5`:
@@ -134,6 +138,10 @@ Nessa questão utilzei o "while" para verificar o fatorial do número digitado p
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187115341-9ff21f7b-234d-4338-8ed8-639a19c78dcb.png)
 
+- `Gráfico Questão 5`:
+
+![image](https://user-images.githubusercontent.com/101759330/196983621-187f4e8a-6827-4c4a-91ce-4e229908f603.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 6`:
@@ -146,3 +154,7 @@ Como solocitado na questão realizei a função para fazer a elevação do núme
 
 Segue Abaixo o print da questão quando é executada:<br>
 ![image](https://user-images.githubusercontent.com/101759330/187116288-efdb944a-02d2-4921-b91d-d615b8d6e074.png)
+
+- `Gráfico Questão 6`:
+
+![image](https://user-images.githubusercontent.com/101759330/196983763-d5953c17-2b8d-4a3f-95ac-bfdb8f4ed9ab.png)
