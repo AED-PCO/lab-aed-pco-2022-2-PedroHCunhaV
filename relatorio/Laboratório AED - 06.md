@@ -33,7 +33,7 @@ Segue Abaixo o print da questão quando é executada:
 
 - `Gráfico Questão 1`:
 
-![image](https://user-images.githubusercontent.com/101759330/197061579-8a6080c3-b802-4d6c-a8e1-6b3b0f333e65.png)
+![image](https://user-images.githubusercontent.com/101759330/197062141-94bc56c3-2234-42a4-8303-d14963251c96.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 - `Gráfico Questão 2`:
 
-![image](https://user-images.githubusercontent.com/101759330/197061755-408fa5f7-6c50-4235-9bed-ba5e9557548e.png)
+![image](https://user-images.githubusercontent.com/101759330/197062074-13a140d7-761e-46be-ba27-8174c4a07dd8.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 - `Gráfico Questão 3`:
 
-![image](https://user-images.githubusercontent.com/101759330/197061839-7abd3d58-8fd6-4d8f-bfab-c1011664d2c9.png)
+![image](https://user-images.githubusercontent.com/101759330/197062016-fcf938af-2269-4218-ba19-24a56345008d.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
