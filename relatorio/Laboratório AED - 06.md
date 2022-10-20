@@ -31,6 +31,10 @@ Para a realização do método de ordenagem Bubble Sort criei um vetor random pa
 Segue Abaixo o print da questão quando é executada:
 ![Cópia de LAB6 - 01](https://user-images.githubusercontent.com/101759330/197059753-d730db4f-4592-453a-8479-261d360b5c18.png)
 
+- `Gráfico Questão 1`:
+
+![image](https://user-images.githubusercontent.com/101759330/197061579-8a6080c3-b802-4d6c-a8e1-6b3b0f333e65.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 2`:
@@ -45,6 +49,10 @@ Para a realização do método de ordenagem Selection Sort criei um vetor random
 Segue Abaixo o print da questão quando é executada:<br>
 ![LAB6 - 02](https://user-images.githubusercontent.com/101759330/197060509-55284aa2-cded-456b-a73d-6a092374e8bd.png)
 
+- `Gráfico Questão 2`:
+
+![image](https://user-images.githubusercontent.com/101759330/197061755-408fa5f7-6c50-4235-9bed-ba5e9557548e.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 3`:
@@ -57,6 +65,10 @@ Para a realização do método de ordenagem Selection Sort criei um vetor random
 
 Segue Abaixo o print da questão quando é executada:<br>
 ![LAB6 - 03](https://user-images.githubusercontent.com/101759330/197060760-56c969eb-b017-4b87-b8be-d5efa2a82495.png)
+
+- `Gráfico Questão 3`:
+
+![image](https://user-images.githubusercontent.com/101759330/197061839-7abd3d58-8fd6-4d8f-bfab-c1011664d2c9.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
