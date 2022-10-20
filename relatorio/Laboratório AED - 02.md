@@ -106,7 +106,7 @@ Segue Abaixo o print da questão quando é executada:<br>
 
 - `Gráfico Questão 5`:
 
-![image](https://user-images.githubusercontent.com/101759330/196990997-3b06fb08-3b7a-44ea-aca1-e32024425d3f.png)
+![image](https://user-images.githubusercontent.com/101759330/196991227-9d8bd788-55d8-4388-94e2-697a5498ff6e.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
