@@ -48,6 +48,10 @@ Para a realização dessa questão utilizei o comando "for" para ser possivel re
 Segue Abaixo o print da questão quando é executada:
 ![image](https://user-images.githubusercontent.com/101759330/187083344-2e8bcb54-5229-4f81-b333-cbbeb44fb3aa.png)
 
+- `Gráfico Questão 1`:
+
+![image](https://user-images.githubusercontent.com/101759330/196980967-e97946da-4e03-4ac6-867e-8173513b4a4c.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 2`:
