@@ -1,0 +1,15 @@
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\bin\Debug\net6.0\AED_Laboratorio07(Revisao).exe
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\bin\Debug\net6.0\AED_Laboratorio07(Revisao).deps.json
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\bin\Debug\net6.0\AED_Laboratorio07(Revisao).runtimeconfig.json
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\bin\Debug\net6.0\AED_Laboratorio07(Revisao).dll
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\bin\Debug\net6.0\AED_Laboratorio07(Revisao).pdb
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).csproj.AssemblyReference.cache
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).AssemblyInfoInputs.cache
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).AssemblyInfo.cs
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).csproj.CoreCompileInputs.cache
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).dll
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\refint\AED_Laboratorio07(Revisao).dll
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).pdb
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\AED_Laboratorio07(Revisao).genruntimeconfig.cache
+C:\Users\1396015\Downloads\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\AED_Laboratorio07(Revisao)\obj\Debug\net6.0\ref\AED_Laboratorio07(Revisao).dll
