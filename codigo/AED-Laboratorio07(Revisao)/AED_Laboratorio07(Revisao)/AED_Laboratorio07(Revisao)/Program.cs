@@ -95,7 +95,7 @@ do
     {
         Console.WriteLine("\nQuestão 04:\n");
 
-        Console.WriteLine("gerador de cpf");     
+        Console.WriteLine("Gerador de CPF");     
         int[] cpf = new int[11];
         int decimo = 0; int decimoprimeiro = 0; int cont = 100;
         while (cont > 0)
