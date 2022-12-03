@@ -1,4 +1,4 @@
-<h1 align="center"> 💻 Laboratório AED - 06 </h1>
+<h1 align="center"> 💻 Laboratório AED - 07 (Revisão da Prova) </h1>
 
 ## ✔️ Linguagem utilizada
 - ``C#``
