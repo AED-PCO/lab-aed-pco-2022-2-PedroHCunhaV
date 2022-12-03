@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1396015\\.nuget\\packages\\": {}
+    "C:\\Users\\bughu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1396015\\Downloads\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao).csproj",
+      "projectUniqueName": "C:\\Users\\bughu\\Source\\Repos\\AED-PCO\\lab-aed-pco-2022-2-PedroHCunhaV\\codigo\\AED-Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao).csproj",
       "projectName": "AED_Laboratorio07(Revisao)",
-      "projectPath": "C:\\Users\\1396015\\Downloads\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao).csproj",
-      "packagesPath": "C:\\Users\\1396015\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1396015\\Downloads\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\obj\\",
+      "projectPath": "C:\\Users\\bughu\\Source\\Repos\\AED-PCO\\lab-aed-pco-2022-2-PedroHCunhaV\\codigo\\AED-Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao).csproj",
+      "packagesPath": "C:\\Users\\bughu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bughu\\Source\\Repos\\AED-PCO\\lab-aed-pco-2022-2-PedroHCunhaV\\codigo\\AED-Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\AED_Laboratorio07(Revisao)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1396015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bughu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
