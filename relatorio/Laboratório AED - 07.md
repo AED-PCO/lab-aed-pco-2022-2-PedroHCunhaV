@@ -22,89 +22,55 @@ Ao final de cada questão é perguntando se deseja repetir o programa com uma re
 ## 🔨 Questões do Laboratório
 - `Questão 1`:
 
-Utilize o metodo do Bubblesort para organizar um array
+Primeira Questão da Prova
 
 - `Resposta Questão 1`:
 
-Para a realização do método de ordenagem Bubble Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado. Após isso, criei uma variável auxiliar para realizar a troca de posições no vetor e criei dois “for” um inserido dentro do outro para fazer o percurso de cada posição do vetor. No “for” de dentro possui um “ if ” para fazer a comparação da posição atual com a próxima e caso atual seja maior que a próxima realiza a troca.
-
-Segue Abaixo o print da questão quando é executada:
-![Cópia de LAB6 - 01](https://user-images.githubusercontent.com/101759330/197059753-d730db4f-4592-453a-8479-261d360b5c18.png)
-
-- `Gráfico Questão 1`:
-
-![image](https://user-images.githubusercontent.com/101759330/197062141-94bc56c3-2234-42a4-8303-d14963251c96.png)
+Para a realização da Questão 01 era necessário realiza a leitura do arquivo e comparar o mesmo , para a realização disso utilizei o “StreamReader” para ler o que possui dentro do arquivo , solicitei para o usuário desejar um texto e armazenei em uma string e realizei a comparação através da utilização de if e else onde utiliza como comparação o texto escrito no arquivo.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 2`:
 
-Utilize o metodo do SelectionSort para organizar um array
+Segunda Questão da Prova
 
 - `Resposta Questão 2`:
 
-Para a realização do método de ordenagem Selection Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado.  Após isso, criei uma variável chamada “ menor “ onde a mesma vai armazenar o menor valor das posições do vetor e outra variável auxiliar para realizar a troca dos valores. Para saber o valor que está inserido em cada posição do vetor realizei a criação de dois “ for “ um inserido dentro do outro. No “ for “ de dentro verifica se a posição do vetor é a menor caso seja atribui o valor da posição a variável menor. No “for” de fora é realizado a troca das posições com utilização da variável auxiliar.
-
-
-Segue Abaixo o print da questão quando é executada:<br>
-![LAB6 - 02](https://user-images.githubusercontent.com/101759330/197060509-55284aa2-cded-456b-a73d-6a092374e8bd.png)
-
-- `Gráfico Questão 2`:
-
-![image](https://user-images.githubusercontent.com/101759330/197062074-13a140d7-761e-46be-ba27-8174c4a07dd8.png)
+Para a realização da Questão 02 era necessário utilizar o código que a questão disponibiliza para saber o resultado que o código iria dar. Que no caso deste código ficaria em loop infinito e causando erro no programa(Não chegando no ponto de parada logo não tendo nenhuma saída).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 3`:
 
-Utilize o metodo do InsertionSort para organizar um array
+Terceira Questão da Prova
 
 - `Resposta Questão 3`:
 
-Para a realização do método de ordenagem Selection Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado.  Após isso, criei uma variável chamada “ flag “ que ao inserir um valor saber o tamanho de vetor como um método de parada e uma outra variável auxiliar que realizará as trocas de posições.Para saber o valor que está inserido em cada posição do vetor realizei a criação de dois “ for “ um inserido dentro do outro.No “for” de dentro possui um “if” onde é feita a comparação e troca de posições com a utilização da variável auxiliar , também possui um ”else” onde é usado a variável “flag” para não ultrapassar o tamanho do vetor.
-
-Segue Abaixo o print da questão quando é executada:<br>
-![LAB6 - 03](https://user-images.githubusercontent.com/101759330/197060760-56c969eb-b017-4b87-b8be-d5efa2a82495.png)
-
-- `Gráfico Questão 3`:
-
-![image](https://user-images.githubusercontent.com/101759330/197062016-fcf938af-2269-4218-ba19-24a56345008d.png)
+Para a realização da Questão 03 foi realizada a criação de um arquivo de texto que continha a seguinte frase “Boa noite professor”. Para localizar e ler o que possuía dentro desse arquivo de texto foi utilizado o StreamReader e armazenado o texto que está no arquivo em uma variável string chamada arquivo. Logo após uma verificação para ver se a variável está vazia ou não, caso não esteja vazia ele exibe o texto antes de ser invertido para a comparação do usuário e após isso utiliza o “Reverse” para inverter o texto.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 4`:
 
-Utilize o metodo do QuickSort para organizar um array
+Quarta Questão da Prova
 
 - `Resposta Questão 4`:
 
-Para a realização do método de ordenagem Quick Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado.Após isso criei duas funções uma chamada “Partição” onde será feita a comparação com o pivô que determinará as trocas de posições e outra chamada “Quick” que verifica o valor do pivô.
+Para a realização da Questão 04 era necessário a realização de um gerador de CPF’s válidos. Para a realização dessa questão foi necessário pesquisar sobre a composição do CPF. 
 
-Segue Abaixo o print da questão quando é executada:<br>
-![LAB6 - 04](https://user-images.githubusercontent.com/101759330/197061004-66968d24-aceb-409e-99d6-17e460175855.png)
+Os 8 primeiros números do CPF são aleatórios e seu 9º número é de acordo com o estado de 0 a 9 , no caso da questão realizada não foi necessário separar por estado , logo foi utilizado um Random para criar os primeiros 9 números.
+
+Foi criado um vetor de tamanho igual a 11 com suas primeiras 9 posições sendo aleatórias. Foi criada duas funções, uma para a Décima posição e outra para a Décima Primeira posição. A Décima posição é realizada a multiplicação das noves posições do vetor por 10,9,8,7,6,5,4,3,2 cada posição por cada número respectivo, após isso é realizada a soma do resultado das multiplicações e depois dividir por onze e o resto da divisão é subtraído pelo número 11 o resultado será a Décima Posição.
+
+A Décima Primeira posição é realizada a multiplicação a partir da segunda posição do vetor até a posição que foi adicionada que no caso é a posição 10, após realizar as multiplicações respectivas , novamente realiza a soma dos resultados das multiplicações , divide por 11 e o resto da divisão é subtraído pelo número 11 o resultado será a Décima Primeira posição.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 5`:
 
-Utilize o metodo do ShellSort para organizar um array
+Quinta Questão da Prova
 
 - `Resposta Questão 5`:
 
-Para a realização do método de ordenagem Shell Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado.A lógica utilizada nesse exercicio foi feita atraves de um while para realizar os pulos (hop) e ir organizando as posições de acordo com o tamanho do hop que foi dado com o passar das execuções.
-
-Segue Abaixo o print da questão quando é executada:<br>
-![LAB6 - 05](https://user-images.githubusercontent.com/101759330/197061138-c841a7d5-39ab-476d-84f5-ec843921e257.png)
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- `Questão 6`:
-
-Utilize o metodo do ContagemSort para organizar um array
-
-- `Resposta Questão 6`:
-
-Para a realização do método de ordenagem Contagem Sort criei um vetor random para  ter uma variedade de números. Após a criação do vetor desordenado imprime o mesmo na tela para ter um controle se o vetor será mesmo ordenado.Após isso criei duas funções uma chamada “Contagem” onde será realizada a contagem de repetições de um mesmo valor no vetor e a organização de suas posições e outra chamada “MaxVal” que verifica maior valor desse vetor para determinar suas respectivas posições.
-
-Segue Abaixo o print da questão quando é executada:<br>
-![LAB6 - 06](https://user-images.githubusercontent.com/101759330/197061335-c00513ed-433c-4bba-9098-985ec72e51a5.png)
+Para a realização da Questão 05 era necessário descobrir qual número do vetor seria exibido de acordo com o código. Após a realização do código e sua execução é possível ver que o valor que será exibido é “22”.
