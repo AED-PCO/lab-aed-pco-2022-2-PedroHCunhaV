@@ -14,7 +14,7 @@ Ao criar o projeto decidi colocar todas as atividades referentes ao primeiro lab
 
 Como mostrado no print a seguir, é possível ver a solicitação para escolher a questão da atividade: <br>
   ↳Lembrando que o "switch-case" para escolher a questão aceita somente números
-![image](https://user-images.githubusercontent.com/101759330/197059591-9f4b0c8e-4039-47a9-9d79-d51dc8f04b20.png)
+![image](https://user-images.githubusercontent.com/101759330/205457661-2dc59ba1-5fa9-420a-b48d-cfba9925f7bd.png)
 
 Ao final de cada questão é perguntando se deseja repetir o programa com uma resposta de "S/N":<br>
 ![image](https://user-images.githubusercontent.com/101759330/187083140-d5ada98b-869f-48fd-b3b2-87fa281aaa90.png)
