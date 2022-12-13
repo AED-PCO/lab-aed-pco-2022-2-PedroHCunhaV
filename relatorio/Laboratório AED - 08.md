@@ -14,25 +14,25 @@ Ao criar o projeto decidi colocar todas as atividades referentes ao primeiro lab
 
 Como mostrado no print a seguir, é possível ver a solicitação para escolher a questão da atividade: <br>
   ↳Lembrando que o "switch-case" para escolher a questão aceita somente números
-![image](https://user-images.githubusercontent.com/101759330/205457661-2dc59ba1-5fa9-420a-b48d-cfba9925f7bd.png)
+![image](https://user-images.githubusercontent.com/101759330/207328761-771b4ad2-8f84-4166-92cc-5bac41d8f21d.png)
 
 Ao final de cada questão é perguntando se deseja repetir o programa com uma resposta de "S/N":<br>
 ![image](https://user-images.githubusercontent.com/101759330/187083140-d5ada98b-869f-48fd-b3b2-87fa281aaa90.png)
 
 ## 🔨 Questões do Laboratório
-- `Questão 1`:
+- `Questão 1`: 
 
-Primeira Questão da Prova
+Atividade Referente a utilização de Fila
 
 - `Resposta Questão 1`:
 
-Para a realização da Questão 01 era necessário realiza a leitura do arquivo e comparar o mesmo , para a realização disso utilizei o “StreamReader” para ler o que possui dentro do arquivo , solicitei para o usuário desejar um texto e armazenei em uma string e realizei a comparação através da utilização de if e else onde utiliza como comparação o texto escrito no arquivo.
+Para a realização da Questão 01 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 2`:
 
-Segunda Questão da Prova
+Segunda Questão 
 
 - `Resposta Questão 2`:
 
@@ -42,7 +42,7 @@ Para a realização da Questão 02 era necessário utilizar o código que a ques
 
 - `Questão 3`:
 
-Terceira Questão da Prova
+Terceira Questão 
 
 - `Resposta Questão 3`:
 
@@ -52,7 +52,7 @@ Para a realização da Questão 03 foi realizada a criação de um arquivo de te
 
 - `Questão 4`:
 
-Quarta Questão da Prova
+Quarta Questão 
 
 - `Resposta Questão 4`:
 
@@ -69,7 +69,7 @@ A Décima Primeira posição é realizada a multiplicação a partir da segunda 
 
 - `Questão 5`:
 
-Quinta Questão da Prova
+Quinta Questão 
 
 - `Resposta Questão 5`:
 
