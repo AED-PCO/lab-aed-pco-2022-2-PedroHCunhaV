@@ -43,17 +43,28 @@ Para a realização da Fila Estática e suas ações (inserir,remover e visualiz
 
 - `Questão 2`:
 
-Segunda Questão 
+Atividade Referente a utilização de Pilha Estática
 
 - `Resposta Questão 2`:
 
-Para a realização da Questão 02 era necessário utilizar o código que a questão disponibiliza para saber o resultado que o código iria dar. Que no caso deste código ficaria em loop infinito e causando erro no programa(Não chegando no ponto de parada logo não tendo nenhuma saída).
+Para a realização da Pilha Estática e suas ações (inserir,remover e visualizar), realizei a criação do vetor de tamanho 5 e de uma variavel que será utilizada para saber as posições e o tamanho máximo do vetor. Foi realizado um menu de seleção para que o usuário escolha qual ação ele deseja realizar, esse menu foi realizado através de um do-while para que quando o usuário realizasse uma ação ele pudesse repetir a ação ou escolher outra. Dentro do do-while possui um switch case que cada caso chama a função de cada ação(Inserir,Remover e Visualizar).Para Inserir os valores no vetor foi realizado a criação de uma função onde passa como parametros o vetor e a variavel de parametro de tamanho, nessa função possui um if para saber se o vetor ja esta preenchido caso já esta preenchido não é possível realizar a inserção, caso não esteja cheio solicita que o usuário digite o valor que deseja inserir e o mesmo lê o valor na primeira posição disponivel.Para a função de remover da fila foi utilizada uma variavel auxiliar para armazenar o valor e a ultima posição que logo após é retirada pois na pilha o último item da pilha é o primeiro a ser retirado.A função para Visualizar foi feita através de um for onde o mesmo verificar em cada posição do vetor se a mesma esta preenchida se tiver preenchida ele imprime o valor que esta na posição caso não esteja preenchida exibe como vazia, através do for isso é realizado em cada posição do vetor de acordo com o seu tamanho.
+
+![image](https://user-images.githubusercontent.com/101759330/207344473-96e84f16-1805-4fcd-9e90-f3b665e58f05.png)
+
+# Inserção
+![image](https://user-images.githubusercontent.com/101759330/207335827-27afbae6-0edd-459f-ac9e-3950826899d2.png)
+
+# Remoção
+![aca](https://user-images.githubusercontent.com/101759330/207349355-80dc0be8-d343-44e0-b44d-669b49c46102.png)
+
+# Visualização
+![aba](https://user-images.githubusercontent.com/101759330/207338246-1e526e3b-a51c-42f3-8ece-7f024dea5ce6.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - `Questão 3`:
 
-Terceira Questão 
+Atividade Referente a utilização de Lista Estática
 
 - `Resposta Questão 3`:
 
