@@ -30,13 +30,13 @@ Para a realização da Fila Estática e suas ações (inserir,remover e visualiz
 
 ![image](https://user-images.githubusercontent.com/101759330/207335396-8ef1e0c7-dcdc-4dbc-a0f1-78d82527886b.png)
 
-#Inserção
+# Inserção
 ![image](https://user-images.githubusercontent.com/101759330/207335827-27afbae6-0edd-459f-ac9e-3950826899d2.png)
 
-#Remoção
+# Remoção
 ![ada](https://user-images.githubusercontent.com/101759330/207337679-dfeeb800-2551-46fa-ae88-aa3db294d4fc.png)
 
-#Visualização
+# Visualização
 ![aba](https://user-images.githubusercontent.com/101759330/207338246-1e526e3b-a51c-42f3-8ece-7f024dea5ce6.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
