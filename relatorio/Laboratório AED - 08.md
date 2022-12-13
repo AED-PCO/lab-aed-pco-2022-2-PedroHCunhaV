@@ -61,27 +61,3 @@ Para a realização da Questão 03 foi realizada a criação de um arquivo de te
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- `Questão 4`:
-
-Quarta Questão 
-
-- `Resposta Questão 4`:
-
-Para a realização da Questão 04 era necessário a realização de um gerador de CPF’s válidos. Para a realização dessa questão foi necessário pesquisar sobre a composição do CPF. 
-
-Os 8 primeiros números do CPF são aleatórios e seu 9º número é de acordo com o estado de 0 a 9 , no caso da questão realizada não foi necessário separar por estado , logo foi utilizado um Random para criar os primeiros 9 números.
-
-Foi criado um vetor de tamanho igual a 11 com suas primeiras 9 posições sendo aleatórias. Foi criada duas funções, uma para a Décima posição e outra para a Décima Primeira posição. A Décima posição é realizada a multiplicação das noves posições do vetor por 10,9,8,7,6,5,4,3,2 cada posição por cada número respectivo, após isso é realizada a soma do resultado das multiplicações e depois dividir por onze e o resto da divisão é subtraído pelo número 11 o resultado será a Décima Posição.
-
-A Décima Primeira posição é realizada a multiplicação a partir da segunda posição do vetor até a posição que foi adicionada que no caso é a posição 10, após realizar as multiplicações respectivas , novamente realiza a soma dos resultados das multiplicações , divide por 11 e o resto da divisão é subtraído pelo número 11 o resultado será a Décima Primeira posição.
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- `Questão 5`:
-
-Quinta Questão 
-
-- `Resposta Questão 5`:
-
-Para a realização da Questão 05 era necessário descobrir qual número do vetor seria exibido de acordo com o código. Após a realização do código e sua execução é possível ver que o valor que será exibido é “22”.
