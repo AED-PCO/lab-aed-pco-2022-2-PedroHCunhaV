@@ -54,9 +54,9 @@ Copiar uma lista para outra lista(metade com a ordem normal da lista original e 
 
 - `Resposta Questão 3`:
 
+Para a realização de uma Lista que possua Metade de Acordo com uma Lista e outra metade de Acordo com a Lista só que o inverso, foi criado três vetores o primeiro é a ListaOriginal onde sera inseridos os dados , o segundo é a ListaCopiada onde sera copiada os valores da ListaOriginal e serão invertidos, a terceira é a ListaCompleta que sera o conjunto da ListaOriginal(ordem normal) e  da ListaCopiada(os mesmo valores ao inverso). Os vetores ListaOriginal e ListaCopiada possuem um tamanho de 5 e a ListaCompleta possui um tamanho de 10 para que fosse possível armazenar o valor dos outros dois vetores(cada um possui 5). Para inserção dos valores na ListaOriginal foi realizada um função que utiliza o Random para inserir valores aleatórios , isso é possível com a utilização de for para inserir em cada posição do vetor.A inversão dos valores é relaizado através de um for onde pego a última posição do vetor e vou atribuindo a ListaCopia e reduzindo minha variavael de controle até o tamanho do vetor acabar. Após isso realizo a leitrua do vetor ListaOriginal e adiciono nas 5 primeiras posições do vetor ListaCompleta e depois a leitura do vetor ListaCopiada e adiciona nos outros cincos espaços disponiveis do veotr ListaCompleta.Após essas realizações é exibido o vetor ListaCompleta na tela.
 
-
-
+![image](https://user-images.githubusercontent.com/101759330/207876732-ec61c4e8-c291-4613-b560-51a16e9ff14b.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
