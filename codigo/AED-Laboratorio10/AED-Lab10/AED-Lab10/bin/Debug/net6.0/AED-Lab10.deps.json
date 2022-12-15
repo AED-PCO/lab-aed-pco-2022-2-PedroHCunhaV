@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AED-Lab10/1.0.0": {
+        "runtime": {
+          "AED-Lab10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AED-Lab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
