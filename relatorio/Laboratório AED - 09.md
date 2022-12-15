@@ -26,7 +26,7 @@ Atividade Referente a Cópiar de uma Pilha para Outra
 
 - `Resposta Questão 1`:
 
-Para a realização de uma Pilha Copiada que possua os mesmos valores que a Pilha Original de maneira Estática, foi criado dois vetores um para a Pilha Original e outro Vetor para a Pilha Copiada ambos com tamanho igual a 5. Foi realizada uma função para inserção de valores aleatórios ao vetor da Pilha Original, isso foi possível utilizando o Random e adicionando os números através de um for para cada posição do vetor. Após Inserir os valores ao vetor Pilha Original é exbido os valores atuais que possuem nos vetores Pilha Original e Pilha Copiada, a Pilha Original possuira valores aletórios para cada posição e o vetor Pilha Original apresentára todas suas posições vazias como no print (Antes de Copiar) , após realizar essa exibição/impressão é perguntando se deseja realizar a cópia de uma pilha para outra caso responda "S ou s" é realizada a cópia através de um for que ira percorrer a Pilha Original e em cada posição da Pilha Original e adicionada a posição respectiva na Pilha Copiada, após realizar essa cópia é exibido/imprimido na tela os dois vetores novamente para mostrar que foi raizada a cópia como mostrado no print (Depois de Copiar).
+Para a realização de uma Pilha Copiada que possua os mesmos valores que a Pilha Original de maneira Estática, foi criado dois vetores um para a Pilha Original e outro Vetor para a Pilha Copiada ambos com tamanho igual a 5. Foi realizada uma função para inserção de valores aleatórios ao vetor da Pilha Original, isso foi possível utilizando o Random e adicionando os números através de um for para cada posição do vetor. Após Inserir os valores ao vetor Pilha Original é exbido os valores atuais que possuem nos vetores Pilha Original e Pilha Copiada, a Pilha Original possuira valores aletórios para cada posição e o vetor Pilha Original apresentará todas suas posições vazias como no print (Antes de Copiar) , após realizar essa exibição/impressão é perguntando se deseja realizar a cópia de uma pilha para outra caso responda "S ou s" é realizada a cópia através de um for que ira percorrer a Pilha Original e em cada posição da Pilha Original e adicionada a posição respectiva na Pilha Copiada, após realizar essa cópia é exibido/imprimido na tela os dois vetores novamente para mostrar que foi raizada a cópia como mostrado no print (Depois de Copiar).
 
 # Antes de Copiar
 ![image](https://user-images.githubusercontent.com/101759330/207856929-baad40eb-f0c7-427b-8171-8670bfe3cf4b.png)
@@ -38,12 +38,13 @@ Para a realização de uma Pilha Copiada que possua os mesmos valores que a Pilh
 
 - `Questão 2`:
 
-Atividade Referente a Copiar de uma Pilha para Outra Invertendo a Ordem 
+Atividade Referente a Copiar de uma Fila para Outra Invertendo a Ordem 
 
 - `Resposta Questão 2`:
 
+Para a realização de uma Fila Copiada que possua os mesmos valores que a Fila Normal só que apresente os valores de modo inverso, foi criado dois vetores um para a Fila Normal e outro para Fila Inversa ambos com tamanho igual a 5. Foi realizada uma função para inserção de valores de acordo com o tamanho do vetor nesse caso sera inserido os valores (1,2,3,4,5), após realizar a inserção é realizada a impressão do Vetor Normal na tela para ser possível saber os números e a ordem do vetor antes da realização dos outros processos. Logo depois de realizar esssa exibição/impressão é perguntado se deseja realizar a copia e inversão do Vetor Normal caso responda "S ou s" é realizada a cópia através de uma função de Inversão onde realiza uma remoção em fila para realizar a cópia dos valores e uma remoção em pilha que será realizada a inversão dos valores e após isso é realizada a exibição/impressão do Vetor Normal e do Vetor Inverso através da função de Visualização que realiza a leitura e exibição dos dados através de um for lendo cada posição do vetor.
 
-
+![image](https://user-images.githubusercontent.com/101759330/207872148-bc244e6d-9cf5-41ef-aea1-c00911203e70.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
