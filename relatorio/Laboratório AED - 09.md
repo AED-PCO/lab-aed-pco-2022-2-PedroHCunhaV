@@ -22,11 +22,11 @@ Ao final de cada questão é perguntando se deseja repetir o programa com uma re
 ## 🔨 Questões do Laboratório
 - `Questão 1`: 
 
-Atividade Referente a Copiar de uma Pilha para Outra
+Atividade Referente a Cópiar de uma Pilha para Outra
 
 - `Resposta Questão 1`:
 
-Para a realização de uma Pilha Copiada que possua os mesmos valores que a Pilha Original de maneira Estática, foi criado dois vetores um para a Pilha Original e outro Vetor para a Pilha Copiada ambos com tamanho igual a 5. Foi realizada uma função para inserção de valores aleatórios ao vetor da Pilha Original, isso foi possível utilizando o Random e adicionando os números através de um for para cada posição do vetor. Após Inserir os valores ao vetor Pilha Original é exbido os valores atuais que possuem nos vetores Pilha Original e Pilha Copiada, a Pilha Original possuira valores aletórios para cada posição e o vetor Pilha Original apresentára todas suas posições vazias como no print #Antes de Copiar#
+Para a realização de uma Pilha Copiada que possua os mesmos valores que a Pilha Original de maneira Estática, foi criado dois vetores um para a Pilha Original e outro Vetor para a Pilha Copiada ambos com tamanho igual a 5. Foi realizada uma função para inserção de valores aleatórios ao vetor da Pilha Original, isso foi possível utilizando o Random e adicionando os números através de um for para cada posição do vetor. Após Inserir os valores ao vetor Pilha Original é exbido os valores atuais que possuem nos vetores Pilha Original e Pilha Copiada, a Pilha Original possuira valores aletórios para cada posição e o vetor Pilha Original apresentára todas suas posições vazias como no print (Antes de Copiar) , após realizar essa exibição/impressão é perguntando se deseja realizar a cópia de uma pilha para outra caso responda "S ou s" é realizada a cópia através de um for que ira percorrer a Pilha Original e em cada posição da Pilha Original e adicionada a posição respectiva na Pilha Copiada, após realizar essa cópia é exibido/imprimido na tela os dois vetores novamente para mostrar que foi raizada a cópia como mostrado no print (Depois de Copiar).
 
 # Antes de Copiar
 ![image](https://user-images.githubusercontent.com/101759330/207856929-baad40eb-f0c7-427b-8171-8670bfe3cf4b.png)
@@ -42,7 +42,6 @@ Atividade Referente a Copiar de uma Pilha para Outra Invertendo a Ordem
 
 - `Resposta Questão 2`:
 
-Para a realização da Pilha Estática e suas ações (inserir,remover e visualizar), realizei a criação do vetor de tamanho 5 e de uma variavel que será utilizada para saber as posições e o tamanho máximo do vetor. Foi realizado um menu de seleção para que o usuário escolha qual ação ele deseja realizar, esse menu foi realizado através de um do-while para que quando o usuário realizasse uma ação ele pudesse repetir a ação ou escolher outra. Dentro do do-while possui um switch case que cada caso chama a função de cada ação(Inserir,Remover e Visualizar).Para Inserir os valores no vetor foi realizado a criação de uma função onde passa como parametros o vetor e a variavel de parametro de tamanho, nessa função possui um if para saber se o vetor ja esta preenchido caso já esta preenchido não é possível realizar a inserção, caso não esteja cheio solicita que o usuário digite o valor que deseja inserir e o mesmo lê o valor na primeira posição disponivel.Para a função de remover da pilha foi utilizada uma variavel auxiliar para armazenar o valor e a ultima posição que logo após é retirada pois na pilha o último item da pilha é o primeiro a ser retirado.A função para Visualizar foi feita através de um for onde o mesmo verificar em cada posição do vetor se a mesma esta preenchida se tiver preenchida ele imprime o valor que esta na posição caso não esteja preenchida exibe como vazia, através do for isso é realizado em cada posição do vetor de acordo com o seu tamanho.
 
 
 
@@ -54,7 +53,7 @@ Copiar uma lista para outra lista(metade com a ordem normal da lista original e 
 
 - `Resposta Questão 3`:
 
-Para a realização da Fila Estática e suas ações (inserir,remover e visualizar), realizei a criação do vetor de tamanho 5 e de uma variavel que será utilizada para saber as posições e o tamanho máximo do vetor. Foi realizado um menu de seleção para que o usuário escolha qual ação ele deseja realizar, esse menu foi realizado através de um do-while para que quando o usuário realizasse uma ação ele pudesse repetir a ação ou escolher outra. Dentro do do-while possui um switch case que cada caso chama a função de cada ação(Inserir,Remover e Visualizar).Para Inserir os valores no vetor foi realizado a criação de uma função onde passa como parametros o vetor e a variavel de parametro de tamanho, nessa função possui um if para saber se o vetor ja esta preenchido caso já esta preenchido não é possível realizar a inserção, caso não esteja cheio solicita que o usuário digite o valor que deseja inserir e o mesmo lê o valor na primeira posição disponivel , caso a posição esteja disponível é perguntado se deseja escolher a posição que sera inserida o valor desejado, caso deseje escolher a posição para inserção é inserido na posição desejada caso a mesma não exceda uma posição disponivel, caso exceda a mesma ajusta aonde sera inserido, se não escolher onde deseja inserir é inserido na primeira posição disponivel.Para a função de remover da lista foi utilizado um if-else para verificar se a lista não esta vazia seleciona uma posição que deseeja remover e verifica se a posição escolhida é valida caso seja valida  e realizada a remoção. A função para Visualizar foi feita através de um for onde o mesmo verificar em cada posição do vetor se a mesma esta preenchida se tiver preenchida ele imprime o valor que esta na posição caso não esteja preenchida exibe como vazia, através do for isso é realizado em cada posição do vetor de acordo com o seu tamanho.
+
 
 
 
