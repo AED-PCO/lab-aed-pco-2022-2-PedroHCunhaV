@@ -1,4 +1,5 @@
 ﻿using FilaDinamicaATV;
+using PilhaDinamicaATV;
 
 char repetir;
 
@@ -18,9 +19,6 @@ do
             break;
         case 2:
             PilhaDinâmicaFunc();
-            break;
-        case 3:
-            ListaDinâmicaFunc();
             break;
         case 0:
             break;
@@ -67,14 +65,34 @@ do
 
     static void PilhaDinâmicaFunc()
     {
+        PilhaDinamica pd = new PilhaDinamica();
 
-    }
+        char repetição;
 
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        do
+        {
+            Console.WriteLine("\nEscolha a Função que deseja ser Realizada:");
+            Console.WriteLine("\nDigite: \n (*1* Inserir na Pilha) \t (*2* Remover da Pilha)");
+            int menu = int.Parse(Console.ReadLine());
 
-    static void ListaDinâmicaFunc()
-    {
+            switch (menu)
+            {
+                case 1:
+                    Console.WriteLine("Informe o valor que deseja Inserir na Fila: ");
+                    int ValorIns = int.Parse(Console.ReadLine());
+                    //pd.Inserir(ValorIns);
+                    break;
+                case 2:
+                    Console.WriteLine("O valor Removido da Fila foi: " /* + pd.RemoverDaFila() */);
+                    break;
+                case 0:
+                    break;
+            }
 
+            Console.WriteLine("\nDeseja Realizar outra Função? (S / N) ");
+            repetição = Console.ReadKey().KeyChar;
+            Console.Clear();
+        } while (repetição == 'S' || repetição == 's');
     }
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------

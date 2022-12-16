@@ -1,0 +1,15 @@
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\bin\Debug\net6.0\AED-Laboratorio11.exe
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\bin\Debug\net6.0\AED-Laboratorio11.deps.json
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\bin\Debug\net6.0\AED-Laboratorio11.runtimeconfig.json
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\bin\Debug\net6.0\AED-Laboratorio11.dll
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\bin\Debug\net6.0\AED-Laboratorio11.pdb
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.csproj.AssemblyReference.cache
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.AssemblyInfoInputs.cache
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.AssemblyInfo.cs
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.csproj.CoreCompileInputs.cache
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.dll
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\refint\AED-Laboratorio11.dll
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.pdb
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\AED-Laboratorio11.genruntimeconfig.cache
+C:\Users\bughu\OneDrive\Área de Trabalho\AED-Laboratorio11\AED-Laboratorio11\obj\Debug\net6.0\ref\AED-Laboratorio11.dll
