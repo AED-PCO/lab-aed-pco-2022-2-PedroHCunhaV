@@ -44,7 +44,7 @@ Atividade Referente a Pilha Dinâmica
 
 Para a realização de Pilha Dinâmica foi utilizado o metódo de classes , com as classes foi possível realizar um marcador/sentinela que auxilia no apontamento das posições para a realização das atividades de inserção e remoção. Com o marcador é apontado o primeiro elemento e  a proxima posição e tratada com nula que assim sera possível determinar o final da pilha. Com o marcado/sentinela é realizado a inserção e remoção dos valores em pilha que no caso seria LIFO (Last in First Out) o ultimo a entrar sera o primeiro a sair.
 
-#Inserir
+# Inserir
 ![image](https://user-images.githubusercontent.com/101759330/208003039-569fee44-9107-4bb7-a1ce-47e78892675a.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
